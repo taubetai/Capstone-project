@@ -1,0 +1,10 @@
+#gameCanvas {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+    border: 1px solid black;
+}
+#login_Button {
+    font-size: 100px;
+}
